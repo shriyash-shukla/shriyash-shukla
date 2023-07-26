@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Shriyash Shukla</h2>
+<h1 align="center">Hi 👋, I'm Shriyash Shukla</h1>
 <h3 align="center">A passionate software developer</h3>
 
 - 🌱 I’m currently learning about **AWS certifications.**
